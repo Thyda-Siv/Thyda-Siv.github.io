@@ -12,7 +12,7 @@ title                    : "Reachsak Ly"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://sites.google.com/view/reachsakly/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reachsak/reachsak.github.io"
 
@@ -21,7 +21,7 @@ repository               : "reachsak/reachsak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "site-logo.png"
+  avatar           : "bio-photo.png"
   name             : "Reachsak Ly"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
