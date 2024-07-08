@@ -21,7 +21,7 @@ repository               : "reachsak/reachsak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.png"
+  avatar           : "bio-photo.jpg"
   name             : "Reachsak Ly"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
