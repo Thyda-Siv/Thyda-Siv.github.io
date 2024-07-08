@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "337695819_960468248277432_4683637782381887811_n.jpg"
+  avatar           : "a.png"
   name             : "Reachsak Ly"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
