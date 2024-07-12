@@ -25,7 +25,7 @@ author:
   name             : "Reachsak Ly"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student"
-  location         : "Earth"
+  location         : # example: "she/her"
   employer         : "Virginia Tech"
   uri              : # URL
   email            : "reachsak@vt.edu" 
