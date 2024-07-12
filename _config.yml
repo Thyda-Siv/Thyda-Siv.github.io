@@ -22,9 +22,9 @@ repository               : "reachsak/reachsak.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Reachsak Ly"
+  name             : "Reachsak Ly, Ph.D student"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D student"
+  bio              : "I am a Ph.D student at Virginia Tech's Myers Lawson School of Construction"
   location         : # example: "she/her"
   employer         : "Virginia Tech"
   uri              : # URL
