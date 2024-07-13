@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Reachsak Ly**, Alireza Shojaei, Hossein Naderi "[DT-DAO: Digital Twin and Blockchain-Based DAO Integration Framework for Smart Building Facility Management](https://doi.org/10.1061/9780784485262.081)," Construction Research Congress 2024 **(CRC2024)**
+**Reachsak Ly**, Alireza Shojaei, Hossein Naderi "[DT-DAO: Digital Twin and Blockchain-Based DAO Integration Framework for Smart Building Facility Management](https://doi.org/10.1061/9780784485262.081)," Construction Research Congress 2024 **(CRC2024)** [(Presentation)](https://drive.google.com/file/d/1GH7WCM-YUTNj9eiFCbiqswhkr8YsJyDa/view) [(Slides)](https://docs.google.com/presentation/d/1PVzuYr-b17HWkKHVgIWNvAL9IoxZZbi3/edit#slide=id.p1) 
 
 Hossein Naderi; **Reachsak Ly**; Alireza Shojaei "[From Data to Value: Introducing an NFT-Powered Framework for Data Exchange of Digital Twins in the AEC Industry](https://doi.org/10.1061/9780784485262.031)," Construction Research Congress 2024 **(CRC2024)**
 
@@ -25,6 +25,6 @@ Jiawei Zhang, Jiangpeng Shu , **Reachsak Ly**, Yiran Ji "[Continual-learning-bas
 
 Jiawei Zhang, **Reachsak Ly**, Weijian Zhao, Yunyi Liu "[Image-Based Structural Damage Recognition using Deep Convolutional Neural Networks](https://drive.google.com/file/d/1I5Uy-2mVcQS_WNi41XFCXXGrezrASMtp/view?usp=sharing)," Proceeding of the fib Symposium 2020 Concrete Structure for Resilience Society
 
-Jiawei Zhang, Jun Li, **Reachsak Ly**, Yunyi Liu and Jiangpeng Shu "[Deep Learning-Based Fatigue Cracks Detection in Bridge Girders using Feature Pyramid Networks](https://drive.google.com/file/d/1apZHyXLByKTg0UD-7q4v1Lt5LGHbewCO/view?usp=sharing)," The 1st International Project Competition for Structural Health Monitoring [(Excellent award)](https://drive.google.com/file/d/1EqTPvueRLVZ-G-5W5o6f7FE6tU9QZPw5/view?usp=sharing), [(Presentation)](https://drive.google.com/drive/u/1/folders/1O57L6flDR7JOuYysuNoTwsg8Ru34AUW-)
+Jiawei Zhang, Jun Li, **Reachsak Ly**, Yunyi Liu and Jiangpeng Shu "[Deep Learning-Based Fatigue Cracks Detection in Bridge Girders using Feature Pyramid Networks](https://drive.google.com/file/d/1apZHyXLByKTg0UD-7q4v1Lt5LGHbewCO/view?usp=sharing)," The 1st International Project Competition for Structural Health Monitoring [(Excellent award)](https://drive.google.com/file/d/1EqTPvueRLVZ-G-5W5o6f7FE6tU9QZPw5/view?usp=sharing), [(Presentation)](https://drive.google.com/drive/u/1/folders/1O57L6flDR7JOuYysuNoTwsg8Ru34AUW-) [(Slides)](https://docs.google.com/presentation/d/1OvG8sP8ltkOZw_zIO96slxPimn0CkX38/edit#slide=id.p1) 
 
 **Reachsak Ly**, Lou Tao Shen, Yu Yuansheng, Maosi Geng, Yinan Dong,Ce Wang "[Renovation proposal of Santa Clara Street in San Jose](https://drive.google.com/file/d/1NzSVgfvwgXjnpKms5cQQyainPNHKDxWj/view?usp=sharing)," 2019 ASCE Mid-Pacific Student Conference
