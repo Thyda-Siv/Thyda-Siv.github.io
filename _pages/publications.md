@@ -27,4 +27,4 @@ Jiawei Zhang, **Reachsak Ly**, Weijian Zhao, Yunyi Liu "[Image-Based Structural 
 
 Jiawei Zhang, Jun Li, **Reachsak Ly**, Yunyi Liu and Jiangpeng Shu "[Automatic Pixel-level Crack Detection and Evaluation of Concrete Structures using Crack Feature Pyramid Network](http://www.schm.org.cn/#/IPC-SHM,2020/results)," The 1st International Project Competition for Structural Health Monitoring
 
-Hossein Naderi; Alireza Shojaei; **Reachsak Ly** "[Autonomous construction safety incentive mechanism using blockchain-enabled tokens and vision-based techniques](https://doi.org/10.1016/j.autcon.2023.104959)," Automation in Construction
+**Reachsak Ly**, Lou Tao Shen, Yu Yuansheng, Maosi Geng, Yinan Dong,Ce Wang "[Renovation proposal of Santa Clara Street in San Jose](https://drive.google.com/file/d/1NzSVgfvwgXjnpKms5cQQyainPNHKDxWj/view?usp=sharing)," 2019 ASCE Mid-Pacific Student Conference
