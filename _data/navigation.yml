@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentation"
     url: /talks/    
 
   - title: "Teaching"
@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    URL: "https://drive.google.com/file/d/1zGJqk_5fJes2JPf9m1ow5rRulum--laV/view"
     
   - title: "Guide"
     url: /markdown/
