@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Project"
+    #url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
 
@@ -14,9 +17,6 @@ main:
     
   - title: "Guide"
     url: /markdown/
-  
-  - title: "Project"
-    #url: /portfolio/
         
   - #title: "Blog Posts"
     #url: /year-archive/
