@@ -15,4 +15,4 @@ I'm currently working on different research projects including Smart buildings, 
 
 When I'm not working, I enjoy spending time playing soccer and video games.
 
-<img src="/images/profile.png" width="200">
+<img src="/images/xx.png" width="200">
