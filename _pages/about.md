@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Reachsak Ly, Ph.D Student"
+title: "Reachsak Ly"
 author_profile: true
 redirect_from: 
   - /about/
