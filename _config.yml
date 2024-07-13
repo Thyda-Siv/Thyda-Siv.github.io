@@ -28,7 +28,7 @@ author:
   location         : "reachsak@vt.edu"
   employer         : "Virginia Tech"
   uri              : # example: "she/her" 
-  email            : "reachsak@vt.edu" 
+  email            : # example: "she/her" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
