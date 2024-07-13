@@ -21,7 +21,7 @@ Alireza Shojaei; **Reachsak Ly**; Saeed Rokooei; Amirsamman Mahdavian; Ahmed Al-
 
 Hossein Naderi; Alireza Shojaei; **Reachsak Ly** "[Autonomous construction safety incentive mechanism using blockchain-enabled tokens and vision-based techniques](https://doi.org/10.1016/j.autcon.2023.104959)," Automation in Construction
 
-Jiawei Zhang, Jiangpeng Shu , **Reachsak Ly**, Yiran Ji "[Image-Based Structural Damage Recognition using Learning without forgetting](https://doi.org/10.1016/j.autcon.2023.104959)," The 10th International Conference on Structural Health Monitoring of Intelligent Infrastructure
+Jiawei Zhang, Jiangpeng Shu , **Reachsak Ly**, Yiran Ji "[Continual-learning-based framework for structural damage recognition](https://drive.google.com/file/d/1JROwKzfr3vQrkON_3x3Oi5kG1aqghhJR/view?usp=sharing)," The 10th International Conference on Structural Health Monitoring of Intelligent Infrastructure
 
 Jiawei Zhang, **Reachsak Ly**, Weijian Zhao, Yunyi Liu "[Image-Based Structural Damage Recognition using Deep Convolutional Neural Networks](https://drive.google.com/file/d/1I5Uy-2mVcQS_WNi41XFCXXGrezrASMtp/view?usp=sharing)," Proceeding of the fib Symposium 2020 Concrete Structure for Resilience Society
 
