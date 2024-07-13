@@ -15,7 +15,7 @@ author_profile: true
 
 **Reachsak Ly**, Alireza Shojaei, Hossein Naderi "[DT-DAO: Digital Twin and Blockchain-Based DAO Integration Framework for Smart Building Facility Management](https://doi.org/10.1061/9780784485262.081)," Construction Research Congress 2024  [(Presentation)](https://drive.google.com/file/d/1GH7WCM-YUTNj9eiFCbiqswhkr8YsJyDa/view) [(Slides)](https://docs.google.com/presentation/d/1PVzuYr-b17HWkKHVgIWNvAL9IoxZZbi3/edit#slide=id.p1) 
 
-Hossein Naderi; **Reachsak Ly**; Alireza Shojaei "[From Data to Value: Introducing an NFT-Powered Framework for Data Exchange of Digital Twins in the AEC Industry](https://doi.org/10.1061/9780784485262.031)," Construction Research Congress 2024 **(CRC2024)**
+Hossein Naderi; **Reachsak Ly**; Alireza Shojaei "[From Data to Value: Introducing an NFT-Powered Framework for Data Exchange of Digital Twins in the AEC Industry](https://doi.org/10.1061/9780784485262.031)," Construction Research Congress 2024 
 
 Saeed Rokooei; Alireza Shojaei; **Reachsak Ly** "[Faculty development program to enhance teaching quality in construction](https://doi.org/10.1080/15623599.2024.2304475)," International Journal of Construction Management
 
