@@ -1,11 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+title: "Teaching"
+permalink: teaching/
 author_profile: true
-redirect_from: 
-  - /markdown.html
----
 
+---
 
 <style type='text/css'>
 h2, h3, h4, h5, h6 {margin: 0;}
