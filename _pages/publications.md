@@ -17,6 +17,6 @@ Hossein Naderi; **Reachsak Ly**; Alireza Shojaei "[From Data to Value: Introduci
 
 Saeed Rokooei; Alireza Shojaei; **Reachsak Ly** "[Faculty development program to enhance teaching quality in construction](https://doi.org/10.1080/15623599.2024.2304475)," International Journal of Construction Management
 
-Alireza Shojaei; **Reachsak Ly**; Saeed Rokooei; Amirsamman Mahdavian; Ahmed Al-Bayati "[Virtual site visits in Construction Management education: A practical alternative to physical site visits](https://doi.org/10.36680/j.itcon.2023.036)," Journal of Information Technology in Construction **(ITCon)**
+Alireza Shojaei; **Reachsak Ly**; Saeed Rokooei; Amirsamman Mahdavian; Ahmed Al-Bayati "[Virtual site visits in Construction Management education: A practical alternative to physical site visits](https://doi.org/10.36680/j.itcon.2023.036)," Journal of Information Technology in Construction 
 
 Hossein Naderi; Alireza Shojaei; **Reachsak Ly** "[Autonomous construction safety incentive mechanism using blockchain-enabled tokens and vision-based techniques](https://doi.org/10.1016/j.autcon.2023.104959)," Automation in Construction
