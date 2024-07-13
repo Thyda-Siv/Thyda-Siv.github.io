@@ -20,3 +20,11 @@ Saeed Rokooei; Alireza Shojaei; **Reachsak Ly** "[Faculty development program to
 Alireza Shojaei; **Reachsak Ly**; Saeed Rokooei; Amirsamman Mahdavian; Ahmed Al-Bayati "[Virtual site visits in Construction Management education: A practical alternative to physical site visits](https://doi.org/10.36680/j.itcon.2023.036)," Journal of Information Technology in Construction 
 
 Hossein Naderi; Alireza Shojaei; **Reachsak Ly** "[Autonomous construction safety incentive mechanism using blockchain-enabled tokens and vision-based techniques](https://doi.org/10.1016/j.autcon.2023.104959)," Automation in Construction
+
+Jiawei Zhang, Jiangpeng Shu , **Reachsak Ly**, Yiran Ji "[Image-Based Structural Damage Recognition using Learning without forgetting](https://doi.org/10.1016/j.autcon.2023.104959)," The 10th International Conference on Structural Health Monitoring of Intelligent Infrastructure
+
+Jiawei Zhang, **Reachsak Ly**, Weijian Zhao, Yunyi Liu "[Image-Based Structural Damage Recognition using Deep Convolutional Neural Networks](https://doi.org/10.1016/j.autcon.2023.104959)," Proceeding of the fib Symposium 2020 Concrete Structure for Resilience Society
+
+Jiawei Zhang, Jun Li, **Reachsak Ly**, Yunyi Liu and Jiangpeng Shu "[Automatic Pixel-level Crack Detection and Evaluation of Concrete Structures using Crack Feature Pyramid Network](http://www.schm.org.cn/#/IPC-SHM,2020/results)," The 1st International Project Competition for Structural Health Monitoring
+
+Hossein Naderi; Alireza Shojaei; **Reachsak Ly** "[Autonomous construction safety incentive mechanism using blockchain-enabled tokens and vision-based techniques](https://doi.org/10.1016/j.autcon.2023.104959)," Automation in Construction
