@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-<img src="/images/AR.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 150px;">
+<img src="/images/AR.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **LLM-based AI agents and Augmented reality applications for smart building control**
 *[Paper and code ](http://localhost:3000/)* Available soon
 
 
-<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 150px;">
+<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Smart and autonomous building cyber-physical system**
 *[Paper and code ](http://localhost:3000/)* Available soon
 
@@ -21,7 +21,7 @@ redirect_from:
 
 
 ## Project
-<img src="/images/steelbridge.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 150px;">
+<img src="/images/steelbridge.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **AISC Student Steel Bridge Competition 2020**<br>
 
 
@@ -30,7 +30,7 @@ redirect_from:
 
 
 
-<img src="/images/midpac2019.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 150px;">
+<img src="/images/midpac2019.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **ASCE Mid-Pac 2019 Conference Transportations Challenge**<br>
 
 
@@ -40,7 +40,7 @@ redirect_from:
 
 
 
-<img src="/images/cd.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 150px;">
+<img src="/images/cd.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **A Continual Learning-Based CNN Framework for Damage Recognition**<br>
 
 
@@ -50,7 +50,7 @@ redirect_from:
 
 
 
-<img src="/images/crack.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 150px;">
+<img src="/images/crack.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Image-Based Structural Damage Recognition using Deep convolutional neural networks**<br>
 
 
