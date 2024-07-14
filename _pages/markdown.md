@@ -62,6 +62,14 @@ redirect_from:
 
 
 
+<img src="/images/ipc.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
+**Automatic Pixel-level Crack Detection and Evaluation of Concrete Structures using Crack Feature Pyramid Network**
+*1st International Project Competition in Structural Health Monitoring*  
+*August 1st, 2020*  
+*University of Illinois at Urbana-Champaign and Harbin Institute of Technology* 
+
+[Competition result](http://www.schm.org.cn/#/IPC-SHM,2020/results),[(Excellent award)](https://drive.google.com/file/d/1EqTPvueRLVZ-G-5W5o6f7FE6tU9QZPw5/view?usp=sharing), [(Presentation)](https://drive.google.com/file/d/11ne2UwON8rCfWhl4Dql5e7C5FNhOEP3m/view?usp=sharing) [(Slides)](https://docs.google.com/presentation/d/1OvG8sP8ltkOZw_zIO96slxPimn0CkX38/edit#slide=id.p1) 
+
 
 
 ## Locations of key files/directories
