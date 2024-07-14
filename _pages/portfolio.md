@@ -1,3 +1,11 @@
+---
+
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
 
 
 <img src="/images/AR.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
