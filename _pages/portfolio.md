@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="margin-bottom: 40px;">
   <img src="/images/AR.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-  **LLM-based AI agents and Augmented reality applications for smart building control**<br>
+  <strong>LLM-based AI agents and Augmented reality applications for smart building control</strong><br>
   *[Github](http://localhost:3000/)* (Coming soon)<br>
 </div>
 
