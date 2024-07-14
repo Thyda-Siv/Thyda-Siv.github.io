@@ -27,8 +27,17 @@ redirect_from:
 
 
 
+
+
+
+
 <img src="/images/midpac2019.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **ASCE Mid-Pac 2019 Conference Transportations Challenge**
+
+
+
+
+
 
 
 
@@ -37,8 +46,20 @@ redirect_from:
 
 
 
+
+
+
+
+
 <img src="/images/crack.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Image-Based Structural Damage Recognition using Deep convolutional neural networks**
+
+
+
+
+
+
+
 
 
 
