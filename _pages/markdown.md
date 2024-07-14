@@ -68,7 +68,26 @@ redirect_from:
 *August 1st, 2020*  
 *University of Illinois at Urbana-Champaign and Harbin Institute of Technology* 
 
-[Competition result](http://www.schm.org.cn/#/IPC-SHM,2020/results),[(Excellent award)](https://drive.google.com/file/d/1EqTPvueRLVZ-G-5W5o6f7FE6tU9QZPw5/view?usp=sharing), [(Presentation)](https://drive.google.com/file/d/11ne2UwON8rCfWhl4Dql5e7C5FNhOEP3m/view?usp=sharing) [(Slides)](https://docs.google.com/presentation/d/1OvG8sP8ltkOZw_zIO96slxPimn0CkX38/edit#slide=id.p1) 
+*[Competition result](http://www.schm.org.cn/#/IPC-SHM,2020/results),[(Excellent award)](https://drive.google.com/file/d/1EqTPvueRLVZ-G-5W5o6f7FE6tU9QZPw5/view?usp=sharing), [(Presentation)](https://drive.google.com/file/d/11ne2UwON8rCfWhl4Dql5e7C5FNhOEP3m/view?usp=sharing) [(Slides)](https://docs.google.com/presentation/d/1OvG8sP8ltkOZw_zIO96slxPimn0CkX38/edit#slide=id.p1)*
+
+
+
+
+
+
+<img src="/images/shm2.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
+**Continual-learning-based framework for structural damage recognition**
+*The 10th International Conference on Structural Health Monitoring of Intelligent Infrastructure*  
+*April 15th, 2021*  
+*Porto, Portugal* 
+*[Presentation](https://drive.google.com/file/d/1n8U0ATgCJKxy385quA48TEgTiTmvJhJ9/view?usp=sharing),[Slides](https://docs.google.com/presentation/d/1AvNszzpbLX9Z1klnNERIWp0ORsrlbohl/edit?usp=sharing&ouid=109273865605327056301&rtpof=true&sd=true)*
+
+
+
+
+
+
+
 
 
 
