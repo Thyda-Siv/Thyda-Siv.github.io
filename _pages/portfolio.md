@@ -18,38 +18,38 @@ redirect_from:
 *[Paper and code ](http://localhost:3000/)* Available soon
 
 
-
-**Reachsak Ly**, Alireza Shojaei, Smart and autonomous building cyber-physical system (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei, Decentralized governance for Community-based facilities management in smart building (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei, Data-driven, and distributed governance for smart building facilities management (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei, Blockchain-based IoT and digital twin for decentralized automation of building facilities operation (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei, Large language model for human building interaction (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei, Artificial intelligence agent for smart building emergency response (*In preparation for submission*)
-
-**Reachsak Ly**, Alireza Shojaei, Artificial intelligence agent for construction site safety monitoring (*In preparation for submission*)
+<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**Smart and autonomous building cyber-physical system**
+*[Paper and code ](http://localhost:3000/)* Available soon
 
 
-## Project
-<img src="/images/steelbridge.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**AISC Student Steel Bridge Competition 2020**<br>
+<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**Decentralized governance for Community-based facilities management in smart building** 
+*[Paper and code ](http://localhost:3000/)* Available soon
+
+<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**Data-driven, and distributed governance for smart building facilities management** 
+*[Paper and code ](http://localhost:3000/)* Available soon
 
 
+<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**Blockchain-based IoT and digital twin for decentralized automation of building facilities operation** 
+*[Paper and code ](http://localhost:3000/)* Available soon
 
 
+<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**Large language model for human building interaction** 
+*[Paper and code ](http://localhost:3000/)* Available soon
 
 
-
-<img src="/images/midpac2019.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**ASCE Mid-Pac 2019 Conference Transportations Challenge**<br>
-
-
+<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**Artificial intelligence agent for smart building emergency response** 
+*[Paper and code ](http://localhost:3000/)* Available soon
 
 
+<img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**Artificial intelligence agent for construction site safety monitoring** 
+*[Paper and code ](http://localhost:3000/)* Available soon
 
 
 
@@ -59,19 +59,19 @@ redirect_from:
 
 
 
-
-
-
-
-
 <img src="/images/crack.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**Image-Based Structural Damage Recognition using Deep convolutional neural networks**<br>
+**Image-Based Structural Damage Recognition using Deep convolutional neural networks**<be>
 
 
 
+## Project
+<img src="/images/steelbridge.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**AISC Student Steel Bridge Competition 2020**<br>
 
 
 
+<img src="/images/midpac2019.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**ASCE Mid-Pac 2019 Conference Transportations Challenge**<br>
 
 
 
