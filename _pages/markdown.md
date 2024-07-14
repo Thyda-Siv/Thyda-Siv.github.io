@@ -34,6 +34,18 @@ redirect_from:
 
 
 
+
+
+
+
+
+
+
+[(Presentation)](https://drive.google.com/file/d/1GH7WCM-YUTNj9eiFCbiqswhkr8YsJyDa/view) [(Slides)](https://docs.google.com/presentation/d/1PVzuYr-b17HWkKHVgIWNvAL9IoxZZbi3/edit#slide=id.p1) 
+
+
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
