@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student at Virginia Tech (Fall 2022-Present). I'm working under the supervision of [Dr. Alireza Shojaei](https://mlsoc.vt.edu/about/faculty-and-staff/alireza-shojaei.html) at Myers-Lawson School of Construction.
+I'm a Ph.D student in the Environmental Design and Planning program (EDP) at Virginia Tech's Myers-Lawson School of Construction (Fall 2022-Present). I'm working under the supervision of [Dr. Alireza Shojaei](https://mlsoc.vt.edu/about/faculty-and-staff/alireza-shojaei.html) and I am also grateful to be advised by [Dr. Xinghua Gao]([https://mlsoc.vt.edu/about/faculty-and-staff/alireza-shojaei.html](https://mlsoc.vt.edu/about/faculty-and-staff/xinghua-gao.html)), [Dr. Abiola Akanmu](https://www.webapps.cee.vt.edu/index.php?category=people&pagetype=bio&do=getprofile&user=akanmu.html) and [Dr. Philip Agee]([https://mlsoc.vt.edu/about/faculty-and-staff/alireza-shojaei.html](https://mlsoc.vt.edu/about/faculty-and-staff/philip-agee.html))
 
-Originally from Siem Reap, Cambodia, I received a B.E in Civil Engineering from Zhejiang University, China. In the last 2 years of my bachelor’s program, I have been working as an undergraduate research assistant on the application of Deep Learning for crack detection in buildings.
+Prior to Virginia Tech, I received a B.E in Civil Engineering from Zhejiang University where I've spent the last two of the program working as an undergraduate research assistant on the application of Deep Learning for structural health monitoring.
 
 I'm currently working on different research projects including Smart buildings, as well as the application of Blockchain Technology, Decentralized Autonomous Organizations,  Digital Twin,  Augmented Reality, Machine Learning and Large Language Models (LLM) in construction industry. 
 
