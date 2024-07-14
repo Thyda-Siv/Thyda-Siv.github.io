@@ -7,15 +7,17 @@ redirect_from:
   - /markdown.html
 ---
 
+<div style="margin-bottom: 40px;">
+  <img src="/images/AR.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+  **LLM-based AI agents and Augmented reality applications for smart building control**<br>
+  *[Github](http://localhost:3000/)* (Coming soon)<br>
+</div>
 
-<img src="/images/AR.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**LLM-based AI agents and Augmented reality applications for smart building control**
-*[Github](http://localhost:3000/)* (Comming soon)<br>
-
-
-<img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**Smart and autonomous building cyber-physical system**
-*[Github](http://localhost:3000/)* (Comming soon)<br>
+<div style="margin-bottom: 40px;">
+  <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+  **Smart and autonomous building cyber-physical system**<br>
+  *[Github](http://localhost:3000/)* (Coming soon)<br>
+</div>
 
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
