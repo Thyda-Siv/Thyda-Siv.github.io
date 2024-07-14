@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<img src="URL_to_your_image" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+<img src="robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 
 **Coordinate research demonstration for the Virginia 4-H Youth Development Program**
 
