@@ -51,7 +51,7 @@ redirect_from:
 
 
 <img src="/images/IMG_8477.JPG" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
-**DT-DAO: Digital Twin and Blockchain-Based DAO Integration Framework for Smart Building Facility Management**
+**Renovation proposal of Santa Clara Street in San Jose**
 *ASCE Mid-Pac 2019 Conference*  
 *April 19, 2019*  
 *San Jose, CA* 
