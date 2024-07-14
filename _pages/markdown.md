@@ -7,6 +7,18 @@ redirect_from:
   - /markdown.html
 ---
 
+
+
+<img src="URL_to_your_image" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+
+**Coordinate research demonstration for the Virginia 4-H Youth Development Program**
+*Myers Lawson School of Construction*  
+June 19, 2024  
+Blacksburg, VA  
+[Demonstration of Quadruped robots application in construction industry](https://drive.google.com/drive/folders/1A_uF7sRGtARoZkdHRKeVb8fSCJPWZcCD?usp=sharing)
+
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
