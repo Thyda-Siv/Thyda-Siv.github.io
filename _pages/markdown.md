@@ -34,13 +34,13 @@ redirect_from:
 
 
 
+<img src="/images/IMG_8477.JPG" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
 
 
 
 
 
-
-
+<img src="/images/crc2024.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
 [(Presentation)](https://drive.google.com/file/d/1GH7WCM-YUTNj9eiFCbiqswhkr8YsJyDa/view) [(Slides)](https://docs.google.com/presentation/d/1PVzuYr-b17HWkKHVgIWNvAL9IoxZZbi3/edit#slide=id.p1) 
 
 
