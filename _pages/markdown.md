@@ -34,18 +34,32 @@ redirect_from:
 
 
 
-<img src="/images/IMG_8477.JPG" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
-
-
 
 
 <img src="/images/crc2024.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
 **DT-DAO: Digital Twin and Blockchain-Based DAO Integration Framework for Smart Building Facility Management**
 *Construction Research Congress 2024*  
-*Marcg 25, 2024*  
+*March 25, 2024*  
 *Des Moines, IOWA* 
 
 [(Presentation)](https://drive.google.com/file/d/1GH7WCM-YUTNj9eiFCbiqswhkr8YsJyDa/view) [(Slides)](https://docs.google.com/presentation/d/1PVzuYr-b17HWkKHVgIWNvAL9IoxZZbi3/edit#slide=id.p1) 
+
+
+
+
+
+
+
+<img src="/images/IMG_8477.JPG" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
+**DT-DAO: Digital Twin and Blockchain-Based DAO Integration Framework for Smart Building Facility Management**
+*ASCE Mid-Pac 2019 Conference*  
+*April 19, 2019*  
+*San Jose, CA* 
+
+[Paper](https://drive.google.com/file/d/1NzSVgfvwgXjnpKms5cQQyainPNHKDxWj/view?usp=sharing)
+
+
+
 
 
 
