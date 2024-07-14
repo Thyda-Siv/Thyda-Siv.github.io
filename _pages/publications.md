@@ -15,7 +15,10 @@ author_profile: true
 
 **Reachsak Ly**, Alireza Shojaei, Decentralized autonomous organizations in Built Environments: Applications, Potentials and Limitations, Information Systems and e-Business Management Journal (Under reviewed)
 
-Investigation of Gender and Racial Diversity in U.S. Construction Higher Education (Revising for resubmission)
+**Reachsak Ly**, MohammadHossein Heydari, Hossein Naderi, Josh Iorio, Alireza Shojaei* ,Investigation of Gender and Racial Diversity in U.S. Construction Higher Education (Revising for resubmission)
+
+Assessment of annoyance from traffic noise inside a school and a hospital, Inter Noise 2024 Conference, (Preparation for submission)
+
 
 ## Peer-Reviewed Publication
 
