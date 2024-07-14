@@ -6,9 +6,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentation"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/ 
     
@@ -18,9 +15,11 @@ main:
   - title: "CV"
     url: https://drive.google.com/file/d/1zGJqk_5fJes2JPf9m1ow5rRulum--laV/view?usp=sharing
     
-  - title: "Guide"
+  - title: "Presentation"
     url: /markdown/
         
   - #title: "Blog Posts"
     #url: /year-archive/
-
+    
+  - title: "Presentation"
+    url: /talks/    
