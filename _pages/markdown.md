@@ -15,7 +15,7 @@ redirect_from:
 *June 19, 2024*  
 *Blacksburg, VA* 
 
-[LLM-based AI agents and Augmented reality applications for smart building control](https://drive.google.com/file/d/1mOrXwYshxlCKBektLC4TgUPKiNRBVtcj/view?usp=sharing)
+*[LLM-based AI agents and Augmented reality applications for smart building control](https://drive.google.com/file/d/1mOrXwYshxlCKBektLC4TgUPKiNRBVtcj/view?usp=sharing)*
 
 
 
