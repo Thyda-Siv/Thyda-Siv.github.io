@@ -14,6 +14,7 @@ author_profile: true
 ## Working Paper
 
 **Reachsak Ly**, Alireza Shojaei, Decentralized autonomous organizations in Built Environments: Applications, Potentials and Limitations, Information Systems and e-Business Management Journal (Under reviewed)
+
 **Investigation of Gender and Racial Diversity in U.S. Construction Higher Education (Revising for resubmission)
 
 ## Peer-Reviewed Publication
