@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img src="robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+<img src=robot.png alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Research demonstration on AI and AR/MR application for the Building Leaders for Advancing Science and Technology (BLAST) Program**
 *Myers Lawson School of Construction*  
 *June 19, 2024*  
