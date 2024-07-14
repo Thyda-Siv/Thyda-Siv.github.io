@@ -12,6 +12,7 @@ redirect_from:
 <img src="URL_to_your_image" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 
 **Coordinate research demonstration for the Virginia 4-H Youth Development Program**
+
 *Myers Lawson School of Construction*  
 June 19, 2024  
 Blacksburg, VA 
