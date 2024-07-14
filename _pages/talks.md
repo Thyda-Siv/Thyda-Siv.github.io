@@ -1,3 +1,14 @@
+---
+title: "Renovation proposal of Santa Clara Street in San Jose"
+collection: talks
+type: "Presentation"
+permalink: /talks/2012-03-01-talk-1
+venue: "ASCE Mid-Pac 2019 Conference"
+date: 2019-04-19
+location: "San Jose State University,San Jose, California"
+---
+
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="robot.png" alt="Talk Image" style="max-width: 100px; margin-right: 20px;">
