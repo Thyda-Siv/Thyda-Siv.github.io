@@ -23,7 +23,7 @@ redirect_from:
 
 ## Project
 <img src="/images/steelbridge.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**AISC Student Steel Bridge Competition 2020**
+**AISC Student Steel Bridge Competition 2020**<br>
 
 
 
@@ -32,7 +32,7 @@ redirect_from:
 
 
 <img src="/images/midpac2019.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**ASCE Mid-Pac 2019 Conference Transportations Challenge**
+**ASCE Mid-Pac 2019 Conference Transportations Challenge**<br>
 
 
 
@@ -42,7 +42,7 @@ redirect_from:
 
 
 <img src="/images/cd.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**A Continual Learning-Based CNN Framework for Damage Recognition**
+**A Continual Learning-Based CNN Framework for Damage Recognition**<br>
 
 
 
@@ -52,7 +52,7 @@ redirect_from:
 
 
 <img src="/images/crack.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**Image-Based Structural Damage Recognition using Deep convolutional neural networks**
+**Image-Based Structural Damage Recognition using Deep convolutional neural networks**<br>
 
 
 
@@ -64,5 +64,5 @@ redirect_from:
 
 
 <img src="/images/microsoft.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**Microsoft Hackathon: Windows App Studio Challenge**
+**Microsoft Hackathon: Windows App Studio Challenge**<br>
 
