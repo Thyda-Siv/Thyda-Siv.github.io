@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/ 
     
-  - #title: "Research Project"
-    #url: /portfolio/
+  - title: "Research"
+    url: /portfolio/
     
   - title: "CV"
     url: https://drive.google.com/file/d/1zGJqk_5fJes2JPf9m1ow5rRulum--laV/view?usp=sharing
