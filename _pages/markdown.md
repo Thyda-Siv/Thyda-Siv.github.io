@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 
+<img src="robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
+**Research demonstration on AI and AR/MR application for the Building Leaders for Advancing Science and Technology (BLAST) Program**
+*Myers Lawson School of Construction*  
+*June 19, 2024*  
+*Blacksburg, VA* 
+[LLM-based AI agents and Augmented reality applications for smart building control](https://drive.google.com/file/d/1mOrXwYshxlCKBektLC4TgUPKiNRBVtcj/view?usp=sharing)
+
+
 
 <img src="robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 
