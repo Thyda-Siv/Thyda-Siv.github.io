@@ -29,6 +29,7 @@ redirect_from:
 *June 19, 2024*  
 *Blacksburg, VA* 
 
+
 *[Demonstration of Quadruped robots application in construction industry](https://drive.google.com/drive/folders/1A_uF7sRGtARoZkdHRKeVb8fSCJPWZcCD?usp=sharing)*
 
 
