@@ -10,35 +10,35 @@ redirect_from:
 
 <img src="/images/AR.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **LLM-based AI agents and Augmented reality applications for smart building control**
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Smart and autonomous building cyber-physical system**
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Smart and autonomous building cyber-physical system**
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Decentralized governance for Community-based facilities management in smart building** 
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Data-driven, and distributed governance for smart building facilities management** 
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Blockchain-based IoT and digital twin for decentralized automation of building facilities operation** 
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 
@@ -46,14 +46,14 @@ redirect_from:
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Large language model for human building interaction** 
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Artificial intelligence agent for smart building emergency response** 
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 
@@ -61,7 +61,7 @@ redirect_from:
 
 <img src="/images/as.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
 **Artificial intelligence agent for construction site safety monitoring** 
-*[Github](http://localhost:3000/)* (Comming soon)
+*[Github](http://localhost:3000/)* (Comming soon)<br>
 
 
 
@@ -75,7 +75,7 @@ redirect_from:
 
 
 <img src="/images/crack.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 100px;">
-**Image-Based Structural Damage Recognition using Deep Convolutional Neural Networks**<be>
+**Image-Based Structural Damage Recognition using Deep Convolutional Neural Networks**<br>
 
 
 
