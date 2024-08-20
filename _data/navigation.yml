@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: /about/
+
+  - title: "Research"
+    url: /portfolio/
     
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/ 
-    
-  - title: "Research"
-    url: /portfolio/
     
   - title: "Presentation"
     url: /markdown/
