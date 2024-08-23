@@ -5,12 +5,6 @@ permalink: /publication/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
 ## Working Paper
 
 **Reachsak Ly**, Alireza Shojaei, Decentralized autonomous organizations in Built Environments: Applications, Potentials and Limitations, Information Systems and e-Business Management Journal (*Under reviewed*)
