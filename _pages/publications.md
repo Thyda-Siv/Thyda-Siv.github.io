@@ -27,6 +27,8 @@ author_profile: true
 
 **Reachsak Ly**, Alireza Shojaei*, Digital twin and LLM-based artificial intelligence agents integrated framework for human building interaction (*In preparation for submission*)
 
+Hassan Azad, Alireza Shojaei, Laurie M. Heller, **Reachsak Ly** Assessment of annoyance from traffic noise inside a school and a hospital, Inter-Noise 2024 Conference, (*In preparation for submission*)
+
 
 
 
