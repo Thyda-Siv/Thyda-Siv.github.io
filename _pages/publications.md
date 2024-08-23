@@ -17,6 +17,16 @@ author_profile: true
 
 **Reachsak Ly**, Mohammad Hossein Heydari, Hossein Naderi, Josh Iorio, Alireza Shojaei*, Investigation of Gender and Racial Diversity in U.S. Construction Higher Education (* In revision for resubmission*)
 
+**Reachsak Ly**, Alireza Shojaei*, Public and private blockchain-based IoT and digital building twin integrated framework for decentralized automation of building facilities operation (*In preparation for submission*)
+
+**Reachsak Ly**, Alireza Shojaei*, Data-driven and distributed governance of building facilities management using decentralized autonomous organization, digital twin, and large language models. (*In preparation for submission*)
+
+**Reachsak Ly**, Alireza Shojaei*, Decentralized autonomous organization and blockchain-based incentivization framework for community-based facilities management. (*In preparation for submission*)
+
+**Reachsak Ly**, Alireza Shojaei*, Decentralized autonomous organization and LLM-based artificial intelligence agents integrated framework for autonomous building cyber-physical system (*In preparation for submission*)
+
+**Reachsak Ly**, Alireza Shojaei*, Digital twin and LLM-based artificial intelligence agents integrated framework for human building interaction (*In preparation for submission*)
+
 Assessment of annoyance from traffic noise inside a school and a hospital, Inter Noise 2024 Conference, (*In preparation for submission*)
 
 
