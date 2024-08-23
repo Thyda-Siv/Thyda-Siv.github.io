@@ -15,7 +15,7 @@ author_profile: true
 
 **Reachsak Ly**, Alireza Shojaei, Decentralized autonomous organizations in Built Environments: Applications, Potentials and Limitations, Information Systems and e-Business Management Journal (*Under reviewed*)
 
-**Reachsak Ly**, Mohammad Hossein Heydari, Hossein Naderi, Josh Iorio, Alireza Shojaei*, Investigation of Gender and Racial Diversity in U.S. Construction Higher Education (* In revision for resubmission*)
+**Reachsak Ly**, Mohammad Hossein Heydari, Hossein Naderi, Josh Iorio, Alireza Shojaei*, Investigation of Gender and Racial Diversity in U.S. Construction Higher Education (*In revision for resubmission*)
 
 **Reachsak Ly**, Alireza Shojaei*, Public and private blockchain-based IoT and digital building twin integrated framework for decentralized automation of building facilities operation (*In preparation for submission*)
 
