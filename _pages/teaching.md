@@ -13,7 +13,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-## Graduate Teaching Assistant at Virginia Tech's Myers-Lawson School of Construction
+## Graduate Teaching Assistant
 
 
 
