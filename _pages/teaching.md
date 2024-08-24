@@ -19,5 +19,5 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 **BC 4434 – Construction Practice I**  | Fall 2022, Spring 2023, Fall 2023
 **BC 4444 – Construction Practice II** | Fall 2022, Spring 2023, Fall 2023
-**BC 4164 – Process Planning and Production Design for Construction** | Spring 2024
+**BC 4164 – Process Planning and Production Design for Construction** | Spring 2024, Fall 2024
 **BC 4989/5984 – Decision Making and Risk Management** | Spring 2024
