@@ -19,4 +19,4 @@ operations, management, and safety.
 
 When I'm not working, I enjoy spending time playing soccer and jogging.
 
-
+You can download my [CV](https://reachsak.github.io/files/reachsak.pdf) here.
