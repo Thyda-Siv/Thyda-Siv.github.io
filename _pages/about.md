@@ -15,8 +15,8 @@ My dissertation research explores the application of blockchain and decentralize
 
 I have extensive experience in applying machine learning/deep learning techniques as well as both vision
 and large language models to construction-related applications, to enhance smart building control and construction
-operations, management, and safety.
+operations, management, and safety. My [CV](https://reachsak.github.io/files/reachsak.pdf) can be downloaded here.
 
 When I'm not working, I enjoy spending time playing soccer and jogging.
 
-You can download my [CV](https://reachsak.github.io/files/reachsak.pdf) here.
+
