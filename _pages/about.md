@@ -13,10 +13,12 @@ Prior to Virginia Tech, I received a B.E in Civil Engineering from Zhejiang Univ
 
 My dissertation research explores the application of blockchain and decentralized governance in smart building facilities management. I also work on different research projects including Smart building technologies , as well as the application of Blockchain Technology, Decentralized Autonomous Organizations,  Digital Twin,  Augmented Reality, Machine Learning, and Large Language Models (LLM) in the construction industry. 
 
+My [CV](https://reachsak.github.io/files/reachsak.pdf) can be downloaded here.
+
 I have extensive experience in applying machine learning/deep learning techniques as well as both vision
 and large language models to construction-related applications, to enhance smart building control and construction
 operations, management, and safety. 
-My [CV](https://reachsak.github.io/files/reachsak.pdf) can be downloaded here.
+
 
 When I'm not working, I enjoy spending time playing soccer and jogging.
 
