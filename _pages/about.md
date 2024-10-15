@@ -11,7 +11,7 @@ I'm a Ph.D student in the Environmental Design and Planning program (EDP) at Vir
 
 Prior to Virginia Tech, I received a B.E in Civil Engineering from Zhejiang University where I've spent the last two of the program working as an undergraduate research assistant on the application of Deep Learning for structural health monitoring.
 
-My dissertation research explores the application of blockchain and decentralized governance in smart building facilities management. I also work on different research projects including Smart building technologies , as well as the application of Blockchain Technology, Decentralized Autonomous Organizations,  Digital Twin,  Augmented Reality, Machine Learning, and Large Language Models (LLM) in the construction industry. 
+My dissertation research explores the application of blockchain and decentralized governance in smart building facilities management. I also work on different research projects including Smart building technologies , as well as the application of Blockchain Technology, Decentralized Autonomous Organizations,  Digital Twin,  Augmented Reality, Machine Learning, and Large Language Models (LLM) in the construction industry. My current research focuses on leveraging advanced digital technologies, including generative AI, machine learning, digital twins, blockchain governance, and mixed reality technology to develop intelligent and autonomous systems for smart construction, intelligent buildings, human-building interaction, and smart cities to enhance efficiency, sustainability in urban environment as well as enabling smart and connected solutions across the built environment.
 
 My [CV](https://reachsak.github.io/files/reachsak.pdf) can be downloaded here.
 
