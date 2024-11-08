@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student in the Environmental Design and Planning program (EDP) at Virginia Tech's Myers-Lawson School of Construction (Fall 2022-Present). I'm working under the supervision of Dr. Alireza Shojaei and I am also grateful to be advised by Dr. Xinghua Gao, Dr. Abiola Akanmu, and Dr. Philip Agee.
+I'm a Ph.D candidate in the Environmental Design and Planning program (EDP) at Virginia Tech's Myers-Lawson School of Construction (Fall 2022-Present). I'm working under the supervision of Dr. Alireza Shojaei and I am also grateful to be advised by Dr. Xinghua Gao, Dr. Abiola Akanmu, and Dr. Philip Agee.
 
 Prior to Virginia Tech, I received a B.E in Civil Engineering from Zhejiang University where I've spent the last two of the program working as an undergraduate research assistant on the application of Deep Learning for structural health monitoring.
 
