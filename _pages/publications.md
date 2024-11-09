@@ -16,7 +16,7 @@ Hassan Azad, Alireza Shojaei, Laurie M. Heller, **Reachsak Ly** Assessment of an
 
 ## Working Paper
 
-**Reachsak Ly**, Alireza Shojaei*, Decentralized autonomous organization and LLM-based artificial intelligence agents integrated framework for autonomous building cyber-physical system, [(arXiv:2410.19262)](https://arxiv.org/abs/2410.19262) 
+**Reachsak Ly**, Alireza Shojaei*, Decentralized autonomous organization and LLM-based artificial intelligence agents integrated framework for autonomous building cyber-physical system, [(Preprint available at arXiv:2410.19262)](https://arxiv.org/abs/2410.19262) 
 
 **Reachsak Ly**, Alireza Shojaei*, Public and private blockchain-based IoT and digital building twin integrated framework for decentralized automation of building facilities operation, (*In preparation for submission*)
 
