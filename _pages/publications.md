@@ -24,7 +24,7 @@ author_profile: true
 
 **Reachsak Ly**, Alireza Shojaei*, Digital twin and LLM-based artificial intelligence agents integrated framework for human building interaction, (*In preparation for submission*)
 
-## Peer-Reviewed Publication
+## Peer-Reviewed Journal Publication
 
 Saeed Rokooei; Alireza Shojaei; **Reachsak Ly** "[Faculty development program to enhance teaching quality in construction](https://doi.org/10.1080/15623599.2024.2304475)," International Journal of Construction Management
 
