@@ -11,8 +11,6 @@ author_profile: true
 
 **Reachsak Ly**, Mohammad Hossein Heydari, Hossein Naderi, Josh Iorio, Alireza Shojaei*, Investigation of Gender and Racial Diversity in U.S. Construction Higher Education, (*In revision for submission*)
 
-Hassan Azad, Alireza Shojaei, Laurie M. Heller, **Reachsak Ly** Assessment of annoyance from traffic noise inside a school and a hospital, Inter-Noise 2024 Conference, (*In preparation for submission*)
-
 
 ## Working Paper
 
@@ -41,6 +39,8 @@ Alireza Shojaei; **Reachsak Ly**; Saeed Rokooei; Amirsamman Mahdavian; Ahmed Al-
 Hossein Naderi; Alireza Shojaei; **Reachsak Ly** "[Autonomous construction safety incentive mechanism using blockchain-enabled tokens and vision-based techniques](https://doi.org/10.1016/j.autcon.2023.104959)," Automation in Construction
 
 ## Conference/ Competition Paper
+
+Hassan Azad, Alireza Shojaei, Laurie M. Heller, **Reachsak Ly** Assessment of annoyance from traffic noise inside a school and a hospital, Inter-Noise 2024 Conference
 
 Jiawei Zhang, Jiangpeng Shu , **Reachsak Ly**, Yiran Ji "[Continual-learning-based framework for structural damage recognition](https://drive.google.com/file/d/1JROwKzfr3vQrkON_3x3Oi5kG1aqghhJR/view?usp=sharing)," The 10th International Conference on Structural Health Monitoring of Intelligent Infrastructure [Presentation](https://drive.google.com/file/d/1n8U0ATgCJKxy385quA48TEgTiTmvJhJ9/view?usp=sharing) [Slides](https://docs.google.com/presentation/d/1AvNszzpbLX9Z1klnNERIWp0ORsrlbohl/edit?usp=sharing&ouid=109273865605327056301&rtpof=true&sd=true) 
 
