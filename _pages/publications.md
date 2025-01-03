@@ -7,8 +7,6 @@ author_profile: true
 
 ## In submission
 
-**Reachsak Ly**, Alireza Shojaei, Decentralized autonomous organizations in Built Environments: Applications, Potentials and Limitations, Information Systems and e-Business Management Journal, (*Under reviewed*)
-
 **Reachsak Ly**, Mohammad Hossein Heydari, Hossein Naderi, Josh Iorio, Alireza Shojaei*, Investigation of Gender and Racial Diversity in U.S. Construction Higher Education, (*In revision for submission*)
 
 
@@ -25,6 +23,8 @@ author_profile: true
 **Reachsak Ly**, Alireza Shojaei*, Digital twin and LLM-based artificial intelligence agents integrated framework for human building interaction, (*In preparation for submission*)
 
 ## Peer-Reviewed Journal Publication
+
+**Reachsak Ly**, Alireza Shojaei, Decentralized autonomous organizations in Built Environments: Applications, Potentials and Limitations, Information Systems and e-Business Management Journal
 
 Saeed Rokooei; Alireza Shojaei; **Reachsak Ly** "[Faculty development program to enhance teaching quality in construction](https://doi.org/10.1080/15623599.2024.2304475)," International Journal of Construction Management
 
