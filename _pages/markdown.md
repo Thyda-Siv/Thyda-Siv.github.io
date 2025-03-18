@@ -50,3 +50,14 @@ This master planning takes inspiration from the region's rugged terrain and unev
 <p style="margin: 5px 0;">
 The plan integrates abundant greenery with modular architecture, creating a marketplace where nature and commerce intertwine at multiple levels. The design seeks to balance structured organization with organic flow, establishing interconnected courtyards and plazas beneath extensive green roofs that transform the market into a vibrant urban oasis.
 </p>
+
+**CULINARY HOUSE** 
+*Phnom Penh, Cambodia. GFA=5,400sq ft*  
+
+<img src="/images/FH.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
+
+<p style="margin: 5px 0;">
+The design features an open floor plan restaurant accompanied by residential units, offering a Khmer cuisine dining experience that celebrates the rich culinary traditions of Cambodia. The architectural style thoughtfully blends Khmer traditional elements with modern design sensibilities, creating a space that honors cultural heritage while embracing contemporary functionality and aesthetics.
+</p>
+
+*[Culinary House Project](https://thyda-siv.github.io/files/FH1.pdf)*
