@@ -8,18 +8,20 @@ main:
     
   - title: "Portfolio"
     url: http://thyda-siv.github.io/files/portfolio_thydasiv.pdf
+
+  - title: "CV"
+    url: /CV/
     
   - title: "Resume"
     url: http://thyda-siv.github.io/files/thydasiv.pdf
   
-  - #title: "Research"
-    #url: /portfolio/
     
   - #title: "Publications"
     #url: /publication/
 
   - #title: "Teaching"
     #url: /teaching/   
+  
   - #title: "Talk"
     #url: /talks/    
     
