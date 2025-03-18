@@ -17,6 +17,6 @@ Currently seeking opportunities in construction project management to apply my u
 
 When I am not working, I enjoy spending my time playing pingpong, badmiton, yoga, and reading.
 
-Please find my [resume](https://thyda-siv.github.io/files/thyda.pdf) and portfolio [portfolio](https://thyda-siv.github.io/files/portfolio_thydasiv.pdf) here.
+Please find my [resume] and portfolio [portfolio](https://thyda-siv.github.io/files/portfolio_thydasiv.pdf) here.
 
 
