@@ -7,18 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D candidate in the Environmental Design and Planning program (EDP) at Virginia Tech's Myers-Lawson School of Construction (Fall 2022-Present). I'm working under the supervision of Dr. Alireza Shojaei and I am also grateful to be advised by Dr. Xinghua Gao, Dr. Abiola Akanmu, and Dr. Philip Agee.
+I'm Thyda Siv, a graduate student in Building Construction and Facility Management at Georgia Institute of Technology. I worked as an  an Architect at The Room Design Studio in Cambodia. The experience has equipped me with the technical and practical skills to manage complex architectural projects from conception to completion. I have supervised multiple architectural projects, including 4 residential projects, a brewery, an office and a data center. Through these experiences, I developed expertise in blueprint reading and as-built drawings, reviewing shop drawings and submittals, preparing RFIs, producing schemetic design, design development and construction drawings, creating material specification books, and understanding procedures in construction. My experience also includes coordinating with various stakeholders, resolving design conflicts, and ensuring adherence to specifications and quality standards. 
 
-Prior to Virginia Tech, I received a B.E in Civil Engineering from Zhejiang University where I've spent the last two of the program working as an undergraduate research assistant on the application of Deep Learning for structural health monitoring.
+My passion for building comes from the excitement of witnessing my projects evolve from concept to reality. This motivation, combined with my experience collaborating with project managers during site visits and addressing unforeseen construction challenges, has helped me recognize that project management skills are essential for successfully bringing designs to life. This motivation led me to pursue advanced studies in construction management, where I'm developing expertise in cost estimation, scheduling, quality control, and construction safety.
 
-My dissertation research explores the application of blockchain and decentralized governance in smart building facilities management. I also work on different research projects including Smart building technologies , as well as the application of Blockchain Technology, Decentralized Autonomous Organizations,  Digital Twin,  Augmented Reality, Machine Learning, and Large Language Models (LLM) in the construction industry. My current research focuses on leveraging advanced digital technologies, including generative AI, machine learning, digital twins, blockchain governance, and mixed reality technology to develop intelligent and autonomous systems for smart construction, intelligent buildings, human-building interaction, and smart cities to enhance efficiency, sustainability in urban environment as well as enabling smart and connected solutions across the built environment.
+I'm proficient in industry-standard tools including Procore, Bluebeam, MS Project, Revit, AutoCAD, and Microsoft Office Suite (Excel and Access). Additionally, I am also familiar with laser scanning, 360 imaging, BIM 4D (Asta Powerproject), and Digital Twin (CupixWorks). In addition to my technology expertise, I am passionate about sustainable building practices and hold a LEED Green Associate certification.
 
-I have extensive experience in applying machine learning/deep learning techniques as well as both vision
-and large language models to construction-related applications, to enhance smart building control and construction
-operations, management, and safety. 
+Currently seeking opportunities in construction project management to apply my unique blend of design creativity and technical knowledge to create value and drive project success.
 
-When I'm not working, I enjoy spending time playing soccer and jogging.
+When I am not working, I enjoy spending my time playing pingpong, badmiton, yoga, and reading.
 
-Please find my [CV](https://reachsak.github.io/files/reachsak.pdf) and [resume](https://reachsak.github.io/files/resume.pdf) here.
+Please find my [resume](https://thyda-siv.github.io/files/thyda.pdf) here.
 
 
