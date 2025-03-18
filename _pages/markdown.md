@@ -17,8 +17,6 @@ The brewery concept seeks to highlight sustainable modern design, closely with t
 
 
 
-
-
 <img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
 
 **Coordinate research demonstration for the Virginia 4-H Youth Development Program**
