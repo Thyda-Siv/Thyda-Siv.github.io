@@ -7,11 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
-
-<img src="/images/KB.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
-
 **KHMER BREWERY**  
 *Phnom Penh, Cambodia, GFA=33,000 sq ft*  
+
+<img src="/images/KB.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
 
 <p style="margin: 5px 0;">
 The brewery concept seeks to highlight sustainable modern design, closely with the visual imagination of green hobs biological nature.
@@ -20,11 +19,10 @@ The brewery concept seeks to highlight sustainable modern design, closely with t
 *[Khmer Brewery Project](https://thyda-siv.github.io/files/Khmer Brewery_A_DD.pdf)*
 
 
-
-<img src="/images/DCelevation1.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
-
 **OFFICE & DATA CENTER**  
 *Phnom Penh, Cambodia, GFA=52,000 sq ft*  
+
+<img src="/images/DCelevation1.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
 
 <p style="margin: 5px 0;">
 The project presents a unique challenge: constructing two buildings with vastly different intended lifespans. The office building for DP is designed for a 5-year maximum lifespan, while the Data Centre will serve for over 25 years.
