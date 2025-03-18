@@ -12,7 +12,7 @@ title                    : "Thyda Siv"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-URL                      : "https://sites.google.com/view/reachsakly/"
+URL                      : #"https://sites.google.com/view/reachsakly/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thyda-siv/thyda-siv.github.io"
 
