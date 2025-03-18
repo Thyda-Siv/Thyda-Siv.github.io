@@ -74,13 +74,13 @@ Certification
   
 Award
 ======
-* Fulbright Foreign Student Program | Fully Funded Master’s Degree Scholarship, US Department of State – May 2024
-* China Scholarship Council Program | Fully Funded Bachelor’s Degree Scholarship, Chinese Government - Jun 2015
-* 3rd Place Architecture Competition | (S) Square Alsahil, AI Salimi Real Estate Development - Jan 2021
+* Fulbright Foreign Student Program, Fully Funded Master’s Degree Scholarship, US Department of State – May 2024
+* China Scholarship Council Program, Fully Funded Bachelor’s Degree Scholarship, Chinese Government - Jun 2015
+* 3rd Place Architecture Competition, (S) Square Alsahil, AI Salimi Real Estate Development - Jan 2021
   
 Community Involvement
 ======
-* Guest Speaker, 2024 Major And Career Fair | US Embassy in Cambodia, FUSAAC - Jun 2024
-* Guest Speaker, Scholarship Opportunities | Institute of Technology of Cambodia - Jan 2022
-* Communication team, Job Fair | Cambodian-Japan Cooperation Center (CJCC) - Feb 2021
-* Country Representative, Cultural Festival | Zhejiang University - Oct 2016
+* Guest Speaker, 2024 Major And Career Fair, US Embassy in Cambodia, FUSAAC - Jun 2024
+* Guest Speaker, Scholarship Opportunities, Institute of Technology of Cambodia - Jan 2022
+* Communication team, Job Fair, Cambodian-Japan Cooperation Center (CJCC) - Feb 2021
+* Country Representative, Cultural Festival, Zhejiang University - Oct 2016
