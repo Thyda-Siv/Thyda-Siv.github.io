@@ -10,6 +10,8 @@ redirect_from:
 
 <img src="/images/KB.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 2560px;">
 
+
+
 **Khmer Brewery**
 
 *Phnom Penh, Cambodia, GFA=33,000 sq ft* 
