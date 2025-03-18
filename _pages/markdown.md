@@ -18,3 +18,17 @@ The brewery concept seeks to highlight sustainable modern design, closely with t
 </p>
 
 *[Khmer Brewery Project](https://thyda-siv.github.io/files/Khmer Brewery_A_DD.pdf)*
+
+
+
+<img src="/images/Datacenter.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
+
+**OFFICE & DATA CENTER**  
+*Phnom Penh, Cambodia, GFA=52,000 sq ft*  
+
+<p style="margin: 5px 0;">
+The project presents a unique challenge: constructing two buildings with vastly different intended lifespans. The office building for DP is designed for a 5-year maximum lifespan, while the Data Centre will serve for over 25 years.
+For sustainability and efficiency, both buildings utilize a modular 7.6 x 7.6-meter grid system, significantly reducing construction time and costs. Between these structures, there's a partially covered social space that connects the buildings while promoting creativity and collaboration. This green, open environment not only enhances communication between teams but also provides DP staff with a healthier, more inspiring workplace.
+</p>
+
+*[Office and Data Center Project](https://thyda-siv.github.io/files/Khmer Brewery_A_DD.pdf)*
