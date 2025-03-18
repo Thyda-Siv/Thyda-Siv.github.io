@@ -43,7 +43,9 @@ For sustainability and efficiency, both buildings utilize a modular 7.6 x 7.6-me
 This master planning takes inspiration from the region's rugged terrain and uneven topography formed by mountains and rivers, the site allowed for varied and exciting spatial arrangements for this local market. Paths, like rivers, carve through the building creating a natural flow of movement and connection. The grid system establishes a flexible framework where users can navigate freely throughout the plan, mimicking the organic way people might traverse a natural landscape.
 </p>
 
+<p style="margin: 5px 0;">
 <img src="/images/DK.png" alt="Talk Image" style="display: block; width: 70%; height: auto;">
+</p>
 
 <p style="margin: 5px 0;">
 The plan integrates abundant greenery with modular architecture, creating a marketplace where nature and commerce intertwine at multiple levels. The design seeks to balance structured organization with organic flow, establishing interconnected courtyards and plazas beneath extensive green roofs that transform the market into a vibrant urban oasis.
