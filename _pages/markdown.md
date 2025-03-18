@@ -11,9 +11,7 @@ redirect_from:
 <img src="/images/KB.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
 
 **Khmer Brewery**  
-
 *Phnom Penh, Cambodia, GFA=33,000 sq ft*  
-
 <br>  
 The brewery concept seeks to highlight sustainable modern design, closely with the visual imagination of green hobs biological nature.
 
