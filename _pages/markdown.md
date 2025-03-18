@@ -53,8 +53,8 @@ The plan integrates abundant greenery with modular architecture, creating a mark
 
 
 
-**CULINARY HOUSE**
-*Phnom Penh, Cambodia. GFA=5,400sq ft*  
+**CULINARY HOUSE**  
+*Phnom Penh, Cambodia, GFA=33,000 sq ft*  
 
 <img src="/images/FH1.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
 
