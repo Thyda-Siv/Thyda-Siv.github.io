@@ -7,10 +7,10 @@ main:
     url: /markdown/
     
   - title: "Portfolio"
-    url: http://reachsak.github.io/files/portfolio_thydasiv.pdf
+    url: http://thyda-siv.github.io/files/portfolio_thydasiv.pdf
     
   - title: "Resume"
-    url: http://reachsak.github.io/files/Thyda.pdf
+    url: http://thyda-siv.github.io/files/Thyda.pdf
   
   - #title: "Research"
     #url: /portfolio/
