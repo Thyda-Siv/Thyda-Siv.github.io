@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Presentation"
+title: "Project"
 author_profile: true
 redirect_from: 
   - /md/
@@ -12,7 +12,7 @@ redirect_from:
 **Khmer Brewery**
 
 *Phnom Penh, Cambodia, GFA=33,000 sq ft* 
-The brewery concept seeks to highlight sustainable modern design, closely with the visual imagination of green hobs biological nature.
+*The brewery concept seeks to highlight sustainable modern design, closely with the visual imagination of green hobs biological nature.*
 
 
 *[LLM-based AI agents and Augmented reality applications for smart building control](https://drive.google.com/file/d/1mOrXwYshxlCKBektLC4TgUPKiNRBVtcj/view?usp=sharing)*
