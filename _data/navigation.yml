@@ -3,24 +3,23 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Research"
-    url: /portfolio/
-    
-  - title: "Publications"
-    url: /publication/
-
-  - title: "Teaching"
-    url: /teaching/ 
-    
-  - title: "Presentation"
+  - title: "Project"
     url: /markdown/
     
-  - title: "CV"
-    url: http://reachsak.github.io/files/reachsak.pdf
+  - title: "Portfolio"
+    url: http://reachsak.github.io/files/portfolio_thydasiv.pdf
     
   - title: "Resume"
-    url: http://reachsak.github.io/files/resume.pdf
+    url: http://reachsak.github.io/files/Thyda.pdf
+  
+  - #title: "Research"
+    #url: /portfolio/
     
+  - #title: "Publications"
+    #url: /publication/
+
+  - #title: "Teaching"
+    #url: /teaching/   
   - #title: "Talk"
     #url: /talks/    
     
