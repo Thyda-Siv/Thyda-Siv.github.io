@@ -21,7 +21,7 @@ repository               : "thyda-siv/thyda-siv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile.png"
   name             : "Thyda Siv"
   pronouns         : # example: "she/her"  
   bio              : "Architect | Master's degree in Building Construction and Facility Management"
