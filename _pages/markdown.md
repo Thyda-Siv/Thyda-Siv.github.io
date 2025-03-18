@@ -9,11 +9,11 @@ redirect_from:
 
 
 <img src="/images/AR.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
-**Research demonstration on AI and AR/MR application for the Building Leaders for Advancing Science and Technology (BLAST) Program**
+**Khmer Brewery**
 
-*Myers Lawson School of Construction*  
-*July 09, 2024*  
-*Blacksburg, VA* 
+*Phnom Penh, Cambodia, GFA=33,000 sq ft* 
+The brewery concept seeks to highlight sustainable modern design, closely with the visual imagination of green hobs biological nature.
+
 
 *[LLM-based AI agents and Augmented reality applications for smart building control](https://drive.google.com/file/d/1mOrXwYshxlCKBektLC4TgUPKiNRBVtcj/view?usp=sharing)*
 
