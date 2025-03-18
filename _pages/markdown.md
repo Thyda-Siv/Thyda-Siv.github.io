@@ -31,4 +31,4 @@ For sustainability and efficiency, both buildings utilize a modular 7.6 x 7.6-me
 
 <img src="/images/Datacenter.png" alt="Talk Image" style="display: block; width: 50%; height: auto;">
 
-*[Office and Data Center Project](https://thyda-siv.github.io/files/Khmer Brewery_A_DD.pdf)*
+*[Office and Data Center Project](https://thyda-siv.github.io/files/Datacenter_A_DD.pdf)*
