@@ -51,7 +51,8 @@ This master planning takes inspiration from the region's rugged terrain and unev
 The plan integrates abundant greenery with modular architecture, creating a marketplace where nature and commerce intertwine at multiple levels. The design seeks to balance structured organization with organic flow, establishing interconnected courtyards and plazas beneath extensive green roofs that transform the market into a vibrant urban oasis.
 </p>
 
-**CULINARY HOUSE** 
+
+**CULINARY HOUSE**
 *Phnom Penh, Cambodia. GFA=5,400sq ft*  
 
 <img src="/images/FH1.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
