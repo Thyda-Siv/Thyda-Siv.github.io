@@ -10,11 +10,11 @@ redirect_from:
 
 <img src="/images/KB.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
 
-**Khmer Brewery**  
+**KHMER BREWERY**  
 *Phnom Penh, Cambodia, GFA=33,000 sq ft*  
 <br>  
 The brewery concept seeks to highlight sustainable modern design, closely with the visual imagination of green hobs biological nature.
-
+*[Khmer Brewery Project](https://Thyda-Siv.github.io/files/Khmer Brewery_A_DD.pdf)*
 
 
 <img src="/images/robot.png" alt="Talk Image" style="float: left; margin-right: 20px; max-width: 200px;">
