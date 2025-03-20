@@ -15,7 +15,8 @@ I'm proficient in industry-standard tools including Procore, Bluebeam, MS Projec
 
 Currently seeking opportunities in construction project management to apply my unique blend of design creativity and technical knowledge to create value and drive project success.
 
-When I am not working, I enjoy spending my time playing pingpong, badmiton, yoga, and reading.
+When I am not working, I enjoy spending my time playing pingpong, badminton, yoga, and reading. I also love exploring new foods and traveling to experience different cultures and cuisines.
+
 
 Please find my [resume](https://thyda-siv.github.io/files/thydasiv.pdf) and portfolio [portfolio](https://thyda-siv.github.io/files/portfolio_thydasiv.pdf) here.
 
