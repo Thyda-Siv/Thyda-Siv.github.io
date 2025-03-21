@@ -19,6 +19,7 @@ Certification
 ======
 * OSHA 30-hour Outreach Training for the Construction Industry – 01 Feb 2025
 * US Green Building/ LEED Green Associate – 01 Mar 2025
+* LinkedIn Learning Construction Management Planning and Scheduling – 20 March 2025
   
 Award
 ======
