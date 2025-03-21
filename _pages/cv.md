@@ -11,9 +11,9 @@ redirect_from:
 
 Skills
 ======
-* Data Analysis: Procore, Bluebeam, Microsoft Project, and Microsoft Office Suite
-* Design and Simulation Tools: Advanced in Autodesk Revit and AutoCAD, Digital Twin (CupixWorks), BIM 4D (Asta Powerproject), Navisworks, Adobe: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, SketchUp, and Lumion
-* Data Acquisition: Laser Scanning (FARO) and 360 Imaging
+* Data Analysis: Procore, Bluebeam, Primavera P6, Microsoft Project, and Microsoft Office Suite (Excel and Access).
+* Design and Simulation Tools: Advanced in Autodesk Revit and AutoCAD, Digital Twin (CupixWorks), BIM 4D (Asta Powerproject), Navisworks, Adobe: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, SketchUp, and Lumion.
+* Data Acquisition: Laser Scanning (FARO) and 360 Imaging.
 
 Certification
 ======
