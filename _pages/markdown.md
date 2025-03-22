@@ -42,7 +42,7 @@ For sustainability and efficiency, both buildings utilize a modular 7.6 x 7.6-me
 The design features an open floor plan restaurant accompanied by residential units, offering a Khmer cuisine dining experience that celebrates the rich culinary traditions of Cambodia. The architectural style thoughtfully blends Khmer traditional elements with modern design sensibilities, creating a space that honors cultural heritage while embracing contemporary functionality and aesthetics.
 </p>
 
-*[Culinary House Project](https://thyda-siv.github.io/files/FH2.pdf)*
+*[Culinary House Project](https://thyda-siv.github.io/files/FH.pdf)*
 
 
 **DAK DAM**  
