@@ -19,7 +19,7 @@ Certification
 ======
 * OSHA 30-hour Outreach Training for the Construction Industry – 01 Feb 2025
 * US Green Building/ LEED Green Associate – 01 Mar 2025
-* Procore Certification: Student - 22 March 2025
+* Procore Certification: Student - 22 March 2025 [view here](https://thyda-siv.github.io/files/Thyda Siv_Procore Certification.pdf)
 * LinkedIn Learning Construction Management Planning and Scheduling – 20 March 2025
   
 Award
