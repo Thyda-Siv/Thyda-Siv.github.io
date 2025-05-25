@@ -19,6 +19,7 @@ Certification
 ======
 * OSHA 30-hour Outreach Training for the Construction Industry – 01 Feb 2025 [View Certification](https://thyda-siv.github.io/files/3_Thyda Siv_OSHA 30hr Construction.pdf)
 * US Green Building/ LEED Green Associate – 01 Mar 2025 [View Certification](https://thyda-siv.github.io/files/4_Thyda Siv_LEED Green Associate.pdf)
+* NFPA 70E - 16 May 2025 [View Certification](https://thyda-siv.github.io/files/NPFA 70E_Thyda Siv.pdf)
 * Procore Certification: Student - 22 March 2025 [View Certification](https://thyda-siv.github.io/files/Thyda Siv_Procore Certification.pdf)
 * LinkedIn Learning Construction Management Planning and Scheduling – 20 March 2025 [View Certification](https://thyda-siv.github.io/files/6_Thyda Siv_Construction Management Planning and Scheduling.pdf)
   
