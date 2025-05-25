@@ -15,7 +15,7 @@ I'm proficient in industry-standard tools including Procore, Bluebeam, SmartShee
 
 Currently seeking opportunities in project management to apply my unique blend of design creativity and technical knowledge to create value and drive project success.
 
-When I am not working, I enjoy spending my time playing pingpong, badminton, yoga, and reading. I also love exploring new foods and traveling to experience different cultures and cuisines.
+When I’m not working, I enjoy practicing yoga, reading, and playing badminton and ping pong. I also love exploring new foods and traveling to experience different cultures and cuisines.
 
 
 Please find my [resume](https://thyda-siv.github.io/files/1_Thyda Siv_CV_2025.pdf) and portfolio [portfolio](https://thyda-siv.github.io/files/portfolio_thydasiv.pdf) here.
