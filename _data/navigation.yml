@@ -15,9 +15,8 @@ main:
   - title: "Resume"
     url: http://thyda-siv.github.io/files/1_Thyda Siv_CV_2025.pdf
   
-    
-  - #title: "Publications"
-    #url: /publication/
+  - title: "School Project"
+    #url: /portfolio/
 
   - #title: "Teaching"
     #url: /teaching/   
