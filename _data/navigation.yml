@@ -5,6 +5,9 @@ main:
 
   - title: "Project"
     url: /markdown/
+
+  - title: "Research"
+    url: /portfolio/
     
   - title: "Portfolio"
     url: http://thyda-siv.github.io/files/portfolio_thydasiv.pdf
@@ -15,8 +18,6 @@ main:
   - title: "Resume"
     url: http://thyda-siv.github.io/files/1_Thyda Siv_CV_2025.pdf
   
-  - title: "Research"
-    #url: /portfolio/
 
   - #title: "Teaching"
     #url: /teaching/   
