@@ -13,8 +13,6 @@ My passion for building comes from the excitement of witnessing my projects evol
 
 I'm proficient in industry-standard tools including Procore, Bluebeam, SmartSheet, CxAlloy, MS Project, Revit, AutoCAD, and Microsoft Office Suite (Excel and Access). Additionally, I am also familiar with laser scanning, 360 imaging, BIM 4D (Asta Powerproject), and Digital Twin (WireTwin and CupixWorks). In addition to my technology expertise, I am passionate about sustainable building practices and hold a LEED Green Associate certification.
 
-Currently seeking opportunities in project management to apply my unique blend of design creativity and technical knowledge to create value and drive project success.
-
 When I’m not working, I enjoy practicing yoga, reading, and playing badminton and ping pong. I also love exploring new foods and traveling to experience different cultures and cuisines.
 
 
