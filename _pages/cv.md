@@ -22,14 +22,13 @@ Certification
 * NFPA 70E - 16 May 2025 [View Certification](https://thyda-siv.github.io/files/NPFA 70E_Thyda Siv.pdf)
 * Procore Certification: Student - 22 March 2025 [View Certification](https://thyda-siv.github.io/files/Thyda Siv_Procore Certification.pdf)
 * LinkedIn Learning Construction Management Planning and Scheduling – 20 March 2025 [View Certification](https://thyda-siv.github.io/files/6_Thyda Siv_Construction Management Planning and Scheduling.pdf)
-  
+
 Award
 ======
-*
+* 7x24 Atlanta Scholarship Award – June 2025
 * Fulbright Foreign Student Program, Fully Funded Master’s Degree Scholarship, US Department of State – May 2024
 * 3rd Place Architecture Competition, (S) Square Alsahil, AI Salimi Real Estate Development - Jan 2021
 * China Scholarship Council Program, Fully Funded Bachelor’s Degree Scholarship, Chinese Government - Jun 2015
-* 7x24 Atlanta Scholarship Award – June 2025
 
 Community Involvement
 ======
