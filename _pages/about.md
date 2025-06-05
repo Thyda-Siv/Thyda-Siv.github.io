@@ -16,6 +16,6 @@ I'm proficient in industry-standard tools including Procore, Bluebeam, SmartShee
 When I’m not working, I enjoy practicing yoga, reading, and playing badminton and ping pong. I also love exploring new foods and traveling to experience different cultures and cuisines.
 
 
-Please find my [resume](https://thyda-siv.github.io/files/1_Thyda Siv_CV_Sample 20.pdf) and portfolio [portfolio](https://thyda-siv.github.io/files/portfolio_thydasiv.pdf) here.
+Please find my [resume](https://thyda-siv.github.io/files/1_Thyda Siv_CV_Sample 20.pdf) and [portfolio](https://thyda-siv.github.io/files/portfolio_thydasiv.pdf) here.
 
 
