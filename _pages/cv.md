@@ -25,9 +25,11 @@ Certification
   
 Award
 ======
+*
 * Fulbright Foreign Student Program, Fully Funded Master’s Degree Scholarship, US Department of State – May 2024
 * 3rd Place Architecture Competition, (S) Square Alsahil, AI Salimi Real Estate Development - Jan 2021
 * China Scholarship Council Program, Fully Funded Bachelor’s Degree Scholarship, Chinese Government - Jun 2015
+* 7x24 Atlanta Scholarship Award – June 2025
 
 Community Involvement
 ======
