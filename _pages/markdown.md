@@ -13,7 +13,7 @@ redirect_from:
 <img src="/images/KB.png" alt="Talk Image" style="display: block; width: 100%; height: auto;">
 
 <p style="margin: 5px 0;">
-The brewery concept seeks to highlight sustainable modern design, closely with the visual imagination of green hobs biological nature.
+The Khmer Brewery project draws inspiration from the organic form and structure of green hops, the key ingredient in beer production. At the heart of the design is a central oval-shaped volume that symbolically represents a hop seed. This form is wrapped with a layered façade system that mimics the protective outer shell of the hop, expressed through vertical tubes and greenery that evoke natural texture and growth. Inside, transparency and spatial layering offer glimpses into the brewing process, connecting visitors with the brand’s identity. The use of double-glazed windows enhances energy efficiency, while the circulation and visual openness reflect a commitment to both functional clarity and experiential richness. The Khmer Brewery is designed to create a functional yet expressive landmark that celebrates the essence of beer-making in both form and function.
 </p>
 
 *[Khmer Brewery Project](https://thyda-siv.github.io/files/Khmer Brewery_A_DD.pdf)*
