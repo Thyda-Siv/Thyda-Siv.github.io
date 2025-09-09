@@ -17,6 +17,7 @@ Skills
 
 Certification
 ======
+* 7x24 Atlanta Scholarship Award – June 2025 [View Certification](https://www.linkedin.com/feed/update/urn:li:activity:7369754642848657410/)
 * OSHA 30-hour Outreach Training for the Construction Industry – 01 Feb 2025 [View Certification](https://thyda-siv.github.io/files/3_Thyda Siv_OSHA 30hr Construction.pdf)
 * US Green Building/ LEED Green Associate – 01 Mar 2025 [View Certification](https://thyda-siv.github.io/files/4_Thyda Siv_LEED Green Associate.pdf)
 * Procore Certification: Student - 22 March 2025 [View Certification](https://thyda-siv.github.io/files/Thyda Siv_Procore Certification.pdf)
