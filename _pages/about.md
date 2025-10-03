@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify;">
   
 I'm Thyda Siv, a graduate student in Building Construction and Facility Management at Georgia Institute of Technology. I hold a Bachelor of Science in Architecture from Zhejiang University in China and worked as an architect at The Room Architecture & Design in Cambodia. The experience has equipped me with the design and technical skills to manage complex architectural projects from conception to completion. I have supervised multiple architectural projects, including an data center + office, a brewery, and residential projects. Through these experiences, I developed expertise in preparing concept designs, design development, and detailed drawings; creating material specification books; reviewing shop drawings and submittals, particularly material samples; organizing BOQs; and understanding design and construction drawings and processes. My experience also includes coordinating with clients, project managers, structural engineers, MEP engineers, interior designers, quantity surveyors, general contractors, suppliers, subcontractors, and consultants. I am advanced in Autodesk Revit, AutoCAD, and MS Excel, and I have skills in Adobe Photoshop, Adobe Illustrator, Adobe InDesign, MS Project, SketchUp, Enscape, and Lumion.  
 
@@ -18,5 +17,4 @@ When I’m not working, I enjoy practicing yoga, reading, and playing badminton 
 
 Please find my [resume](https://thyda-siv.github.io/files/Thyda Siv_Resume.pdf) and [portfolio](https://thyda-siv.github.io/files/portfolio_thydasiv.pdf) here.  
 
-</div>
 
