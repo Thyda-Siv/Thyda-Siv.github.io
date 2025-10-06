@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Qualification"
+title: "Qualifications"
 permalink: /cv/
 author_profile: true
 redirect_from:
