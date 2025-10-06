@@ -6,7 +6,7 @@ main:
   - title: "Project"
     url: /markdown/
     
-  - title: "Qualification"
+  - title: "Qualifications"
     url: /cv/
     
   - title: "Research"
@@ -15,7 +15,7 @@ main:
   - title: "Portfolio"
     url: http://thyda-siv.github.io/files/portfolio_thydasiv.pdf
 
-  - title: "Resume"
+  - title: "CV"
     url: http://thyda-siv.github.io/files/Thyda Siv_Resume.pdf
   
 
