@@ -34,7 +34,7 @@ Award
 
 Letter of Recommendation
 ======
-* [Click here to view](https://thyda-siv.github.io/files/Thyda Siv_LoR.pdf)
+* [Click here to view](https://thyda-siv.github.io/files/Recommendation Letter.png)
 
 Community Involvement
 ======
