@@ -11,7 +11,7 @@ redirect_from:
 
 Skills
 ======
-* Data Analysis: Advanced in MS Excel; MS Project, Procore, Bluebeam, Primavera P6, OpenBlue Workplace, Smartsheet, and CxAlloy.
+* Data Analysis: Advanced in MS Excel; MS Project, Procore, Bluebeam, Primavera P6, Smartsheet, @Risk, IBM SPSS and CxAlloy.
 * Design and Simulation Tools: Advanced in Autodesk Revit and AutoCAD; Digital Twin (WireTwin, CupixWorks), BIM 4D (Asta Powerproject), Navisworks, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, SketchUp, Enscape, and Lumion.
 * Data Acquisition: Laser Scanning (FARO) and 360 Imaging.
 
