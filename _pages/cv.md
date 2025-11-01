@@ -38,7 +38,7 @@ Letter of Recommendation
 
 Community Involvement
 ======
-* Guest Speaker, 2024 Major And Career Fair, US Embassy in Cambodia, FUSAAC - Jun 2024
+* Guest Speaker, 2024 Major And Career Fair, American University of Phnom Penh (AUPP), FUSAAC - Jun 2024
 * Communication team, Job Fair, Cambodian-Japan Cooperation Center (CJCC) - Feb 2021
 * Guest Speaker, Scholarship Opportunities, Institute of Technology of Cambodia - Jan 2018
 * Country Representative, Cultural Festival, Zhejiang University - Oct 2016
